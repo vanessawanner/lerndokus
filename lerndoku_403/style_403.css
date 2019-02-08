@@ -270,7 +270,11 @@ footer {
     width: 60px;
   }
 }
-
+@media (max-width: 620px) {
+#brennweite th {
+  font-size: 13px;
+}
+}
 
 #brennweiteimgs {
   width: 100%;
@@ -402,5 +406,3 @@ dt {
 tr:hover {
     background-color:rgb(253, 219, 219, 0.5);
   }
-
-
