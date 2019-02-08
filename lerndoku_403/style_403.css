@@ -1,6 +1,7 @@
 /* Navigation und header*/
 h1{
   font-size: 50px;
+  font-family: 'Open Sans', sans-serif;
 }
 @media (max-width:533px) {
   h1 {
@@ -223,6 +224,7 @@ footer {
   width: 100%;
   color: rgb(97, 96, 96);
   font-size: 14px;
+  
 }
 
 /*Planung*/
